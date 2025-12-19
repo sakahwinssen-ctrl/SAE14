@@ -17,10 +17,8 @@ Le site respecte les standards essentiels du Web :
 
 - ✔️ **✔️ Validation W3C (CSS,Html)** : [Voir le rapport de validation](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsakahwinssen-ctrl.github.io%2Fle-maroc%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=fr)
  
-- ✔️ **Norme WCAG 2.0 AA** (accessibilité renforcée)  
-- ✔️ **Responsive Design** (mobile, tablette, PC)
-
-> Le code a été organisé pour rester lisible, maintenable et conforme aux bonnes pratiques vues en cours.
+- ✔️ ** Norme WCAG 2.0 AA ** : respect des bonnes pratiques d’accessibilité (structure claire, contrastes lisibles, textes alternatifs, navigation accessible).
+(accessibilité renforcée)  
 
 ---
 
