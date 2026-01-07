@@ -96,4 +96,4 @@ Il évalue :
 
 ---
 
-## © 2025 – Projet Le Maroc – *Ton nom ici*
+## © 2025 – Projet Le Maroc – 
